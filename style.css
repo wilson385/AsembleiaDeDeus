@@ -1,8 +1,57 @@
 * {
     padding: 0;
     margin: 0;
+    box-sizing: border-box;
+    color: white;
 }
 
 body {
+    background: url(assets/fundo.jpg) no-repeat top center/cover;
+    height: 100vh;
     
+}
+
+    .container {
+        width: 100%;
+        /* max-width: 588px; */
+        border: 1px solid ;
+        margin: 13rem auto 0;
+        padding: 4px;
+        height: 22rem;
+        
+    }
+
+    .imagem {
+        display: flex;
+        /* conteudo em linha */
+        flex-direction: row;
+        justify-content: center;
+    }
+
+    .container h1 {
+    border: 1px solid;
+    padding-top: 34px;
+    margin-left: 8px;
+    
+    
+}
+
+.imagem img {
+    border: 1px solid;
+    width: 112px;
+}
+
+
+
+.container h2 {
+    border: 1px solid;
+    margin-top: 10px;
+    text-align: center;
+
+    
+}
+.container p {
+    text-align: center;
+    margin-top: 2rem;
+    font-size: 20px;
 }
