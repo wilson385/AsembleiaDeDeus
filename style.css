@@ -14,7 +14,6 @@ body {
     .container {
         width: 100%;
         max-width: 588px;
-        border: 1px solid ;
         margin: 13rem auto 0;
         padding: 11px;
         /* altura se ajusta de acordo com tamanho do content */
