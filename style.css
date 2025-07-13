@@ -9,15 +9,18 @@ body {
     background: url(assets/fundo.jpg) no-repeat top center/cover;
     height: 100vh;
     
+    
 }
 
     .container {
+        
         width: 100%;
-        max-width: 588px;
+        max-width: 610px;
         margin: 13rem auto 0;
         padding: 11px;
         /* altura se ajusta de acordo com tamanho do content */
         height: auto;
+        border-radius: 30px;
         
     }
 
@@ -34,6 +37,10 @@ body {
     margin-left: 13px;
     
     
+}
+
+.container h1:hover {
+    color: 	#FF8C00;
 }
 
 .imagem img {
@@ -66,6 +73,7 @@ body {
 
 }
 
+
 ul {
     
     margin-top: 1.8rem;
@@ -97,4 +105,8 @@ footer {
 footer a {
     text-decoration: none;
     
+}
+
+footer a:hover {
+    color: rgb(234, 0, 255);
 }
