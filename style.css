@@ -16,11 +16,11 @@ body {
         
         width: 100%;
         max-width: 610px;
-        margin: 13rem auto 0;
+        margin: 7rem auto 0;
         padding: 11px;
         /* altura se ajusta de acordo com tamanho do content */
         height: auto;
-        border-radius: 30px;
+        
         
     }
 
