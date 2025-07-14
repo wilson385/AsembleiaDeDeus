@@ -35,12 +35,13 @@ body {
     /* border: 1px solid; */
     padding-top: 22px;
     margin-left: 13px;
+    color: #FF8C00;
     
     
 }
 
 .container h1:hover {
-    color: 	#FF8C00;
+    color: 	#f09e3a;
 }
 
 .imagem img {
