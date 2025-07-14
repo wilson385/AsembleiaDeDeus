@@ -114,7 +114,7 @@ footer a:hover {
 
 @media (max-width: 399px) {
     .container h1 {
-        padding-top: 4px;
+        padding-top: 0px;
     }
 
 }
