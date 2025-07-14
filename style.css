@@ -111,6 +111,13 @@ footer a:hover {
     color: rgb(234, 0, 255);
 }
 
+@media (max-width: 399px) {
+    .container h1 {
+        padding-top: 18px;
+    }
+
+}
+/* celulares */
 @media (max-width: 430px) {
     .versiculo {
         margin-top: 18px;
