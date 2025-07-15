@@ -4,10 +4,8 @@
 			"path": "."
 		},
 		{
-			"path": "../portifolio"
+			"path": "../frasesMotivacionais"
 		}
 	],
-	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "AssembleiaDeDeus"
-	}
+	"settings": {}
 }
