@@ -169,7 +169,7 @@ transition: all 0.4s;
 /* celulares */
 @media (max-width: 430px) {
     .versiculo {
-        margin-top: 15px;
+        margin-top: 10px;
     }
 
 }
